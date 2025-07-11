@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('Manrope.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tenor';
+    src: url('tenor.ttf') format('truetype');
+}
+
+:root {
+    --main-font: 'Manrope', sans-serif;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.tenor {
+    font-family: 'Tenor';
+}
